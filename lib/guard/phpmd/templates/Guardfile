@@ -1,0 +1,4 @@
+# Installed by guard-phpmd
+guard 'phpmd' do
+	watch(%r{.*\.php$})
+end
